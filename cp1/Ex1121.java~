@@ -1,17 +1,7 @@
-/********************************************************
- *  Compilation:  javac Ex1121.java
- * 
- *  exercises 1.1.21
- * 
- *  Read standard input, output name and average number
- *  Data file:    avrgin.txt
- *  Output file:  avrgout.txt
- ********************************************************/
-
-/*
- * @author Jing Xu
- * 
- * */
+/***************************************************
+ *  Data file:    avin.txt
+ *  Output file:  avout.txt
+ ***************************************************/
 
 public class Ex1121
 { 

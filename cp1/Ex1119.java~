@@ -1,17 +1,3 @@
-/*********************************************
- *  Compilation:  javac Ex1119.java
- * 
- *  exercises 1.1.19
- * 
- *  use array to re-write Fibonacci function
- *
- *********************************************/
-
-/*
- * @author Jing Xu
- * 
- * */
-
 public class Ex1119
 {
     public static long F(long[] f, int N)
