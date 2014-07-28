@@ -1,0 +1,6 @@
+james 7.500
+peter 5.583
+olivia 3.231
+tilda 2.375
+emma 0.847
+alice 0.922
