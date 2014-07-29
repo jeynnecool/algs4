@@ -1,8 +1,9 @@
 #Sedgewick, Algorithms, 4th Edition
+------
 
-##exercise
+###exercise
 
-###exercise 1.1.4
+*exercise 1.1.4*
 
 a. if (a > b) then c = 0;
 if (a > b) { c = 0; }
@@ -16,26 +17,55 @@ correct
 d. if(a > b) c = 0 else b = 0;
 correct
 
-###exercise 1.1.5
+*exercise 1.1.5*
 
-<code>
+<src lang="java">
 double x;
 double y;
 if (x > 0 && x < 1 && y > 0 && y < 1) System.out.println("true");
 else                                  System.out.println("false");
-</code>
+</src>
 
-###exercise 1.1.8
+*exercise 1.1.8*
 
 a. b
 b. bc
 c. e
 
-
-###exercise 1.1.10
+*exercise 1.1.10*
 
 int[] a;
 
 Array a hasn't been initialized.
+
+
+*exercise 1.1.12*
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+*exercise 1.1.13*
+
+see code
+
+*exercise 1.1.16*
+
+311361142246
+
+*exercise 1.1.17*
+
+need to put if(n<=0) prior than string s;
+
+*exercise 1.1.18*
+
+
 
 
