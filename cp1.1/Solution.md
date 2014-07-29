@@ -5,42 +5,36 @@
 
 **exericse 1.1.1**
 
- a. 7
-
- b. 200.0000002
-
- c. true
-
+```
+a. 7
+b. 200.0000002
+c. true
+```
 
 **exercise 1.1.2**
 
- a. float 1.618
-
- b. float 10.0
-
- c. bool true
-
- d. string 33
-
+```
+a. float 1.618
+b. float 10.0
+c. bool true
+d. string 33
+```
 
 **exercise 1.1.4**
 
- a. if (a > b) then c = 0;
+```
+a. if (a > b) then c = 0;
+if (a > b) { c = 0; }
 
-	if (a > b) { c = 0; }
+b. if a > b { c = 0; }
+if (a > b)
 
- b. if a > b { c = 0; }
+c.	if (a > b) c = 0;
+correct
 
-	if (a > b)
-
- c.	if (a > b) c = 0;
-
-	correct
-
- d. if(a > b) c = 0 else b = 0;
-
-	correct
-
+d. if(a > b) c = 0 else b = 0;
+correct
+```
 
 **exercise 1.1.5**
 
@@ -75,28 +69,30 @@ else                                  System.out.println("false");
 
 **exercise 1.1.7**
 
+```
  a. 3.00009
-
  b. 499500
-
  c. N hasn't been defined? Throw out error.
-
+```
 
 **exercise 1.1.8**
 
+```
  a. b
  b. bc
  c. e
+```
 
 **exercise 1.1.10**
 
+```
 <code>int[] a;</code>
-
 Array a hasn't been initialized.
-
+```
 
 **exercise 1.1.12**
 
+```
 0
 1
 2
@@ -107,7 +103,7 @@ Array a hasn't been initialized.
 7
 8
 9
-
+```
 
 **exercise 1.1.13**
 
@@ -123,19 +119,27 @@ for(int i = 0; i < N; i++)
 
 **exercise 1.1.14**
 
+```
 see code
+```
 
 **exercise 1.1.15**
 
+```
 see code
+```
 
 **exercise 1.1.16**
 
+```
 311361142246
+```
 
 **exercise 1.1.17**
 
+```
 need to put <code>if(n<=0)</code> prior than <code>string s</code>
+```
 
 **exercise 1.1.18**
 
