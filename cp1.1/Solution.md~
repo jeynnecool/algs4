@@ -3,45 +3,57 @@
 
 ###exercise
 
-*exericse 1.1.1*
+**exericse 1.1.1**
 
  a. 7
+
  b. 200.0000002
+
  c. true
 
-*exercise 1.1.2*
+
+**exercise 1.1.2**
 
  a. float 1.618
+
  b. float 10.0
+
  c. bool true
+
  d. string 33
 
-*exercise 1.1.4*
+
+**exercise 1.1.4**
 
  a. if (a > b) then c = 0;
+
 	if (a > b) { c = 0; }
 
  b. if a > b { c = 0; }
+
 	if (a > b)
 
  c.	if (a > b) c = 0;
+
 	correct
 
  d. if(a > b) c = 0 else b = 0;
+
 	correct
 
-*exercise 1.1.5*
 
-<src lang="java">
+**exercise 1.1.5**
+
+``` java
 double x;
 double y;
 if (x > 0 && x < 1 && y > 0 && y < 1) System.out.println("true");
 else                                  System.out.println("false");
-</src>
+```
 
-*exercise 1.1.6*
+**exercise 1.1.6**
 
-<verse>
+```
 0
 1
 1
@@ -58,28 +70,32 @@ else                                  System.out.println("false");
 233
 377
 610
-</verse>
+```
 
-*exercise 1.1.7*
+
+**exercise 1.1.7**
 
  a. 3.00009
+
  b. 499500
+
  c. N hasn't been defined? Throw out error.
 
-*exercise 1.1.8*
+
+**exercise 1.1.8**
 
  a. b
  b. bc
  c. e
 
-*exercise 1.1.10*
+**exercise 1.1.10**
 
-int[] a;
+<code>int[] a;</code>
 
 Array a hasn't been initialized.
 
 
-*exercise 1.1.12*
+**exercise 1.1.12**
 
 0
 1
@@ -92,9 +108,10 @@ Array a hasn't been initialized.
 8
 9
 
-*exercise 1.1.13*
 
-<src lang="java">
+**exercise 1.1.13**
+
+``` java
 int[][] trans = new int[M][N];
 for(int i = 0; i < N; i++)
 {
@@ -102,26 +119,27 @@ for(int i = 0; i < N; i++)
 		print(trans[j][i]));
 	print('\n');
 }
-</src>
+```
 
-*exercise 1.1.14*
-
-see code
-
-*exercise 1.1.15*
+**exercise 1.1.14**
 
 see code
 
-*exercise 1.1.16*
+**exercise 1.1.15**
+
+see code
+
+**exercise 1.1.16**
 
 311361142246
 
-*exercise 1.1.17*
+**exercise 1.1.17**
 
-need to put <code>if(n<=0)</code> prior than <code>string s</code>;
+need to put <code>if(n<=0)</code> prior than <code>string s</code>
 
-*exercise 1.1.18*
+**exercise 1.1.18**
 
+```
 mystery(2, 25) 50
 mystery(3, 11) 33
 mystery(a, b) a*b
@@ -131,6 +149,8 @@ after change
 mystery(2, 25) 0
 mystery(3, 11) 0
 mystery(a, b)  0
+```
+
 
 
 
