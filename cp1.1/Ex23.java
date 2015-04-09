@@ -1,18 +1,17 @@
 /********************************************************
- *  Compilation:  javac Ex23.java
+ * Quesiton:
+ * 1.1.23 Add to the BinarySearch test client the ability to respond 
+ * to a second argument: + to print numbers from standard input that 
+ * are not in the whitelist, - to print numbers that are in the whitelist.
  * 
- *  exercises 1.1.23
+ * Rewrite Binary Search use rank()
  * 
- *  Rewrite Binary Search use rank()
- *  Whitelist: data01.txt
- *  Invoke: java-algs4 Ex22 data01.txt 15
- *  
+ * Compilation:  javac Ex23.java
+ * Whitelist example: data01.txt
+ * Execution: java Ex23 data01.txt 15 + 
+ * 
+ * @author: Jing Xu
  ********************************************************/
-
-/*
- * @author Jing Xu
- * 
- * */
 
 import java.util.Arrays;
 

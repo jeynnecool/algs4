@@ -1,3 +1,14 @@
+/*********************************************
+ * Question:
+ * 1.1.18
+ * 
+ * Environment: DrJava 
+ * Compilation: javac Ex18.java
+ * Execution: java Ex18
+ * 
+ * @author: Jing Xu 
+ *********************************************/
+
 public class Ex18
 {
     public static int mystery(int a, int b)

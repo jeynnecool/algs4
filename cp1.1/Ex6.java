@@ -1,3 +1,15 @@
+/*********************************************
+ * Question:
+ * 1.1.6
+ * 
+ * Environment: DrJava 
+ * Compilation: javac Ex6.java
+ * Execution: java Ex6
+ * 
+ * @author: Jing Xu 
+ *********************************************/
+
+
 public class Ex6
 {
     public static void main(String[] args)

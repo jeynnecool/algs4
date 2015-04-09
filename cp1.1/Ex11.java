@@ -1,17 +1,15 @@
 /*********************************************
- *  Compilation:  javac Ex11.java
+ * Question:
+ * 1.1.11 Write a code fragment that prints the contents of a 
+ * two-dimensional boolean array, using * to represent true and a 
+ * space to represent false. Include row and column numbers.
  * 
- *  exercises 1.1.11
- *  
- *  Output boolean table 
- *  use * to replace true, ' ' to replace false
- *  
+ * Environment: DrJava 
+ * Compilation: javac Ex11.java
+ * Execution: java Ex11
+ * 
+ * @author: Jing Xu 
  *********************************************/
-
-/*
- * @author Jing Xu
- * 
- * */
 
 public class Ex11
 {

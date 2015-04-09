@@ -1,16 +1,13 @@
 /*********************************************
- *  Compilation:  javac Ex19.java
+ * Question:
+ * 1.1.19 Use array to re-write Fibonacci function
  * 
- *  exercises 1.1.19
+ * Environment: DrJava 
+ * Compilation:  javac Ex19.java
+ * Execution: java Ex19
  * 
- *  use array to re-write Fibonacci function
- *
- *********************************************/
-
-/*
  * @author Jing Xu
- * 
- * */
+ *********************************************/
 
 public class Ex19
 {

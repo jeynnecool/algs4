@@ -1,22 +1,21 @@
 /*********************************************
- *  Compilation:  javac Ex14.java
+ * Question:
+ * 1.1.14
  * 
- *  exercises 1.1.14
- *
+ * Environment: DrJava 
+ * Compilation: javac Ex14.java
+ * Execution: java Ex14
+ * 
+ * @author: Jing Xu 
  *********************************************/
-
-/*
- * @author Jing Xu
- * 
- * */
 
 public class Ex14
 {
     public static void main(String[] args)
     {
-        System.out.print("Please enter an integer larger than 0: ");
+        StdOut.println("Please enter an integer larger than 0: ");
         int i = Integer.parseInt(System.console().readLine());
-        System.out.println("result: " + lg(i));
+        StdOut.println("result: " + lg(i));
     }
     
     public static int lg(int i)

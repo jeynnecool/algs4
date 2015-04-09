@@ -1,18 +1,20 @@
 /********************************************************
- *  Compilation:  javac Ex21.java
+ * Question:
+ * 1.1.21 Write a program that reads in lines from standard 
+ * input with each line containing a name and two integers and 
+ * then uses printf() to print a table with a column of the names, 
+ * the integers, and the result of dividing the first by the second, 
+ * accurate to three decimal places. You could use a program like 
+ * this to tabulate batting averages for baseball players or grades 
+ * for students.
  * 
- *  exercises 1.1.21
+ * Environment: DrJava
+ * Compilation: javac Ex21.java
+ * Data example: avrgin.txt
+ * Execution: java Ex21
  * 
- *  Read standard input, output name and average number
- *  Data file:    avrgin.txt
- *  Output file:  avrgout.txt
- *  Invoke: java-algs4 Ex21 < avrgin.txt > avrgout.txt
+ * @author: Jing Xu
  ********************************************************/
-
-/*
- * @author Jing Xu
- * 
- * */
 
 public class Ex21
 { 

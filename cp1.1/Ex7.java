@@ -1,14 +1,13 @@
 /*********************************************
- *  Compilation:  javac Ex7.java
+ * Question:
+ * 1.1.7
  * 
- *  exercises 1.1.7
- *
+ * Environment: DrJava 
+ * Compilation: javac Ex7.java
+ * Execution: java Ex7
+ * 
+ * @author: Jing Xu 
  *********************************************/
-
-/*
- * @author Jing Xu
- * 
- * */
 
 public class Ex7
 {

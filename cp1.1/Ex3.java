@@ -1,14 +1,14 @@
-/***************************************
- *  Compilation:  javac Ex3.java
+/*********************************************
+ * Question:
+ * 1.1.3
  * 
- *  exercises 1.1.3
- *
- ***************************************/
+ * Environment: DrJava 
+ * Compilation: javac Ex3.java
+ * Execution: java Ex3
+ * 
+ * @author: Jing Xu 
+ *********************************************/
 
-/*
- * @author Jing Xu
- * 
- * */
 
 public class Ex3
 {

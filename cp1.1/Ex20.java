@@ -1,16 +1,14 @@
-/********************************************
- *  Compilation:  javac Ex20.java
+/*********************************************
+ * Question:
+ * 1.1.20 Write a recursive static method that computes the 
+ * value of ln (N !)
  * 
- *  exercises 1.1.20
+ * Environment: DrJava 
+ * Compilation:  javac Ex20.java
+ * Execution: java Ex20
  * 
- *  wirte recursive function of logarithm
- *
- ********************************************/
-
-/*
  * @author Jing Xu
- * 
- * */
+ *********************************************/
 
 public class Ex20
 {

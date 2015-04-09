@@ -1,18 +1,17 @@
 /********************************************************
- *  Compilation:  javac Ex22.java
+ * Quesiton:
+ * 1.1.22 Write a version of BinarySearch that uses the recursive 
+ * rank() given on page 25 and traces the method calls. Each time 
+ * the recursive method is called, print the argument values lo and hi, 
+ * indented by the depth of the recursion. Hint: Add an argument to the 
+ * recursive method that keeps track of the depth.
  * 
- *  exercises 1.1.22
+ * Compilation:  javac Ex22.java
+ * Whitelist example: data01.txt
+ * Execution: java Ex22 data01.txt 15
  * 
- *  Rewrite Binary Search use rank()
- *  Whitelist: data01.txt
- *  Invoke: java-algs4 Ex22 data01.txt 15
- *  
+ * @author: Jing Xu
  ********************************************************/
-
-/*
- * @author Jing Xu
- * 
- * */
 
 import java.util.Arrays;
 

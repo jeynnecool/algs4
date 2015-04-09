@@ -1,14 +1,13 @@
 /*********************************************
- *  Compilation:  javac Ex8.java
+ * Question:
+ * 1.1.8
  * 
- *  exercises 1.1.8
+ * Environment: DrJava 
+ * Compilation: javac Ex8.java
+ * Execution: java Ex8
  * 
+ * @author: Jing Xu 
  *********************************************/
-
-/*
- * @author Jing Xu
- * 
- * */
 
 public class Ex8
 {

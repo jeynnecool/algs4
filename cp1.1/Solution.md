@@ -1,7 +1,7 @@
 #Sedgewick, Algorithms, 4th Edition
-------
 
-###exercise
+
+###Chapter 1.1 Solutions
 
 **exericse 1.1.1**
 
@@ -155,7 +155,19 @@ mystery(3, 11) 0
 mystery(a, b)  0
 ```
 
+**exercise 1.1.30**
 
+``` java
+boolean[][] a = new boolean[N][N]();
+
+for(int i = 0; i < N; i++)
+{
+	for(int j = 0; j < N; j++)
+	{
+		
+	}
+}
+```
 
 
 
