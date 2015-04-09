@@ -30,4 +30,7 @@ reverse string s
 
 it swaps array a and b
 
+##### exercise 1.2.9
+
+see code
 
