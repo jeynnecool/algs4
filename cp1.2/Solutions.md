@@ -2,7 +2,15 @@
 
 ##### Ex1.2.1
 
-see code Ex121.java
+see code Point2D.java
+
+##### Ex1.2.2
+
+see code Interval1D.java
+
+##### Ex1.2.3
+
+see code Interval2D.java
 
 ##### Ex1.2.4
 
